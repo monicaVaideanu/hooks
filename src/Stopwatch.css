@@ -1,0 +1,9 @@
+.Stopwatch{
+    text-align: center;
+}
+.go {
+    color: green;
+  }
+  .stop {
+    color: red;
+  }
